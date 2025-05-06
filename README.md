@@ -1,8 +1,5 @@
-## Hi there 👋 My name is Selvahini.![image](https://github.com/user-attachments/assets/0e24982b-d549-4e8a-be30-40324ff11ad5)
-
-<img src="https://github.com/{USERNAME}/{USERNAME}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
-
-
+## Hi there 👋 My name is Selvahini.
+![image](https://github.com/user-attachments/assets/001278c9-5048-42ca-b62a-4e3bd665618a)
 
 🎓 First-year Computer Engineering Student @ University of Waterloo
 
