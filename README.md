@@ -14,8 +14,7 @@ I'm a first-year **Computer Engineering** student at the **University of Waterlo
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,react,arduino,python,unity,flask,express,fastapi,cpp,java,dart,eclipse,flutter,netlify,npm,opencv,pycharm,pytorch,threejs,tensorflow,vercel,visualstudio" />
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,git,postman,figma,java,nodejs,react,arduino,python,unity,flask,express,fastapi,cpp,java,dart,eclipse,flutter,netlify,npm,opencv,pycharm,pytorch,threejs,tensorflow,vercel,visualstudio" />
 </p>
 
 <hr>
