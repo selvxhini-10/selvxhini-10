@@ -1,7 +1,7 @@
-<div align="center">## Hi there 👋 My name is Selvahini.
+<h1 align="center">Hi there! 👋 My name is Selvahini.
 ![image](https://github.com/user-attachments/assets/001278c9-5048-42ca-b62a-4e3bd665618a)
 
-🎓 First-year Computer Engineering Student @ University of Waterloo </div>
+🎓 First-year Computer Engineering Student @ University of Waterloo </h1>
 
 ## 💬 About Me
 I'm interested in building **scalable**, **innovative** solutions at the intersection of **web** development, **AI** and **machine learning**, and **embedded systems**. I’m particularly passionate about projects that tackle real-world societal challenges such as climate sustainability, accessibility, robotics, and automation.
