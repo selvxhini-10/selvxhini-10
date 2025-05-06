@@ -1,8 +1,9 @@
 <h1 align="center">Hi there! 👋 My name is Selvahini.</h1>
 
+<div align="center">
 ![bg](https://github.com/user-attachments/assets/04035f6d-8c7d-4fdc-ba96-9a59b6de737e)
 
-<div align="center">
+
 🎓 I'm a first-year Computer Engineering student @ University of Waterloo. 
 </div>
 
