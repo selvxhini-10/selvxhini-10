@@ -11,6 +11,15 @@ I'm a first-year **Computer Engineering** student at the **University of Waterlo
 - 🤖 Exploring **AI Agents** with a focus on **Retrieval-Augmented Generation (RAG)** in large language models.
 - 💻 Gaining hands-on experience with **embedded systems** (STM32 Nucleo Board) and **C++** programming.
 
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,react,arduino,python,unity,flask,express,fastapi,cpp,java,dart,eclipse,flutter,netlify,npm,opencv,pycharm,pytorch,threejs,tensorflow,vercel,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,git,postman,figma" />
+</p>
+
+<hr>
+
 ## ⚡️ Stats
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=selvxhini-10&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="selvxhini-10's GitHub Stats" />
