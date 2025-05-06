@@ -11,6 +11,15 @@ I'm a first-year **Computer Engineering** student at the **University of Waterlo
 - 🤖 Exploring **AI Agents** with a focus on **Retrieval-Augmented Generation (RAG)** in large language models.
 - 💻 Gaining hands-on experience with **embedded systems** (STM32 Nucleo Board) and **C++** programming.
 
+## ⚡️ Stats
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+</div>
+
+<hr>
+
 ## 🤝 Let's Collaborate
 I'm always open to collaborating on projects that make a meaningful impact — especially those that combine hardware and software in creative ways. Feel free to connect via my socials!
 
