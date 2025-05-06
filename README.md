@@ -1,4 +1,8 @@
-## Hi there 👋 My name is Selvahini.
+## Hi there 👋 My name is Selvahini.![image](https://github.com/user-attachments/assets/0e24982b-d549-4e8a-be30-40324ff11ad5)
+
+<img src="https://github.com/{USERNAME}/{USERNAME}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+
+
 
 🎓 First-year Computer Engineering Student @ University of Waterloo
 
@@ -13,5 +17,5 @@ I'm interested in building **scalable**, **innovative** solutions at the interse
 I'm always open to collaborating on projects that make a meaningful impact — especially those that combine hardware and software in creative ways. Feel free to connect via my socials!
 
 📧 [Email](s5kamala@uwaterloo.ca)
-🖥️ [LinkedIn]([url](https://www.linkedin.com/in/selvahini-kamalarajan/))
+🖥️ [LinkedIn](s5kamala@uwaterloo.ca)
 
