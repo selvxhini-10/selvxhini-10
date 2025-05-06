@@ -5,7 +5,7 @@
 </p>
 
 ## 💬 About Me
-I'm a first-year** Computer Engineering** student at the **University of Waterloo**. I'm interested in building **scalable**, **innovative** solutions at the intersection of **web** development, **AI** and **machine learning**, and **embedded systems**. I’m particularly passionate about projects that tackle real-world societal challenges such as climate sustainability, accessibility, robotics, and automation.
+I'm a first-year **Computer Engineering** student at the **University of Waterloo**. I'm interested in building **scalable**, **innovative** solutions at the intersection of **web** development, **AI** and **machine learning**, and **embedded systems**. I’m particularly passionate about projects that tackle real-world societal challenges such as climate sustainability, accessibility, robotics, and automation.
 
 ## 🔍 What I'm Working On
 - 🤖 Exploring **AI Agents** with a focus on **Retrieval-Augmented Generation (RAG)** in large language models.
