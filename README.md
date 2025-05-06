@@ -13,9 +13,9 @@ I'm a first-year **Computer Engineering** student at the **University of Waterlo
 
 ## ⚡️ Stats
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=selvxhini-10&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="selvxhini-10's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=selvxhini-10&theme=transparent&count_private=true&border_radius=10&locale=en" alt="selvxhini-10's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=selvxhini-10&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="selvxhini-10's Most Used Languages" />
 </div>
 
 <hr>
