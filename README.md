@@ -1,6 +1,7 @@
 <h1 align="center">Hi there! 👋 My name is Selvahini.</h1>
-<div align="center">![image](https://github.com/user-attachments/assets/001278c9-5048-42ca-b62a-4e3bd665618a)
+![image](https://github.com/user-attachments/assets/d12a7218-2fe6-4790-84f4-027ddaf47e15)
 
+<div align="center">
 🎓 First-year Computer Engineering Student @ University of Waterloo 
 </div>
 
