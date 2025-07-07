@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!👋 My name is Selvahini.</h1>
 
 <p align="center">
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=95420085851671849" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
+<img src="https://assets.pinterest.com/ext/embed.html?id=95420085851671849" height="295" width="345" frameborder="0" scrolling="no" ></img>
 </p>
 
 ## 💬 About Me
