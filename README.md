@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!👋 My name is Selvahini.</h1>
 
 <p align="center">
-![Alt Text](https://github.com/selvxhini-10/selvxhini-10/blob/main/gif.gif)
+![Alt Text](gif.gif)
 </p>
 
 ## 💬 About Me
