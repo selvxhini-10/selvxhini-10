@@ -1,6 +1,9 @@
 <h1 align="center">Hi there!👋 My name is Selvahini.</h1>
 
-![](background.gif)
+<p class="center">
+![](background.gif) 
+  <img src="background.gif" alt="Alt text">
+</p>
 
 ## 💬 About Me
 I'm a first-year **Computer Engineering** student at the **University of Waterloo**. I'm interested in building **scalable**, **innovative** solutions at the intersection of **web** development, **AI**, **machine learning**, and **embedded systems**. I’m particularly passionate about projects that tackle real-world societal challenges such as climate sustainability, accessibility, robotics, and automation.
