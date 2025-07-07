@@ -1,8 +1,7 @@
 <h1 align="center">Hi there!👋 My name is Selvahini.</h1>
 
 <p class="center">
-![](background.gif) 
-  <img src="background.gif" alt="Alt text">
+![Alt text](gif.gif) 
 </p>
 
 ## 💬 About Me
