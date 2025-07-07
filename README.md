@@ -1,7 +1,8 @@
 <h1 align="center">Hi there!👋 My name is Selvahini.</h1>
 
 <p class="center">
-![Alt text](gif.gif) 
+
+![gif](https://github.com/user-attachments/assets/a7be3225-8735-4a1a-8c98-847e0ac771f3)
 </p>
 
 ## 💬 About Me
