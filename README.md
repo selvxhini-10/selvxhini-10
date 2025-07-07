@@ -1,10 +1,7 @@
 <h1 align="center">Hi there!👋 My name is Selvahini.</h1>
 
 <p align="center">
-  ![background image]([url]([url](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fanime-city-gif-digital-art--580612576968515172%2F&psig=AOvVaw255T8QYASTP8cajPUjGV2n&ust=1751941860335000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCzyZPaqY4DFQAAAAAdAAAAABAW)))
-<img src="[[https://pin.it/1xoXcDygh](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fanime-city-gif-digital-art--580612576968515172%2F&psig=AOvVaw255T8QYASTP8cajPUjGV2n&ust=1751941860335000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCzyZPaqY4DFQAAAAAdAAAAABAW)](https://i.pinimg.com/originals/8a/45/c6/8a45c6b0b17785c6dd052ec155b75826.gif)"/>
-
-  <img src="[url]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fanime-city-gif-digital-art--580612576968515172%2F&psig=AOvVaw255T8QYASTP8cajPUjGV2n&ust=1751941860335000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCzyZPaqY4DFQAAAAAdAAAAABAW)](https://i.pinimg.com/originals/8a/45/c6/8a45c6b0b17785c6dd052ec155b75826.gif)" alt="Alt text">
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/gif.gif)
 </p>
 
 ## 💬 About Me
