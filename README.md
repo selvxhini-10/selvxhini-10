@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!👋 My name is Selvahini.</h1>
 
 <p align="center">
-<img src="https://assets.pinterest.com/ext/embed.html?id=95420085851671849" height="295" width="345" frameborder="0" scrolling="no" ></img>
+<img src="[https://pin.it/1xoXcDygh](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fanime-city-gif-digital-art--580612576968515172%2F&psig=AOvVaw255T8QYASTP8cajPUjGV2n&ust=1751941860335000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCzyZPaqY4DFQAAAAAdAAAAABAW)">
 </p>
 
 ## 💬 About Me
