@@ -5,11 +5,12 @@
 </p>
 
 ## 💬 About Me
-I'm a second-year **Computer Engineering** student at the **University of Waterloo**. I'm interested in building **scalable**, **innovative** solutions at the intersection of **software** development, **AI**, **machine learning**, and **embedded systems**. I’m particularly passionate about projects that tackle real-world societal challenges such as climate sustainability, accessibility, robotics, and automation.
+I'm a second-year **Computer Engineering** student at the **University of Waterloo**. I'm interested in building **scalable**, **innovative** solutions at the intersection of **AI development**, **machine learning**, and **embedded systems**. I’m particularly passionate about projects that tackle real-world societal challenges such as climate sustainability, accessibility, robotics, and automation.
 
 ## 🔍 What I'm Working On
+- ⚙️ Learning **graphics drivers**, **RTOS **development and **hardware abstraction**
 - 🤖 Exploring **Multi-Agent Orchestration** and **Physical AI** with World Foundation Models (WFMs)
-- 💻 Gaining hands-on experience with **embedded systems** (STM32 Nucleo Board) and **C++** programming.
+- 💻 Gaining hands-on experience with **embedded systems** (STM32 Nucleo Board) and **C/C++** programming
 
 ## 🛠️ Languages and Tools
 
@@ -18,10 +19,11 @@ I'm a second-year **Computer Engineering** student at the **University of Waterl
 </p>
 
 ## ⚡️ Stats
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=selvxhini-10&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="selvxhini-10's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=selvxhini-10&theme=transparent&count_private=true&border_radius=10&locale=en" alt="selvxhini-10's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=selvxhini-10&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="selvxhini-10's Most Used Languages" />
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=selvxhini-10&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="selvxhini-10's GitHub Stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=selvxhini-10&theme=transparent&count_private=true&border_radius=10&locale=en" alt="selvxhini-10's GitHub Streak" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvxhini-10&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="selvxhini-10's Most Used Languages" />
 </div>
 
 ## 🤝 Let's Collaborate
