@@ -9,7 +9,7 @@ I'm a second-year **Computer Engineering** student at the **University of Waterl
 
 ## 🔍 What I'm Working On
 - ⚙️ Learning about **embedded graphics drivers**, **RTOS** development and **hardware abstraction**
-- 🤖 Exploring **multi-agent rrchestration** and **physical AI** with world foundation models (WFMs)
+- 🤖 Exploring **multi-agent orchestration** and **physical AI** with world foundation models (WFMs)
 - 💻 Gaining hands-on experience with **firmware** (STM32 Nucleo Board) and **C/C++** programming
 
 ## 🛠️ Languages and Tools
