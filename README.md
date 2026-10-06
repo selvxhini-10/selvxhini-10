@@ -8,9 +8,9 @@
 I'm a second-year **Computer Engineering** student at the **University of Waterloo**. I'm interested in building **scalable**, **innovative** solutions at the intersection of **AI development**, **machine learning**, and **embedded systems**. I’m particularly passionate about projects that tackle real-world societal challenges such as climate sustainability, accessibility, robotics, and automation.
 
 ## 🔍 What I'm Working On
-- ⚙️ Learning about **graphics drivers**, **RTOS** development and **hardware abstraction**
+- ⚙️ Learning about **embedded graphics drivers**, **RTOS** development and **hardware abstraction**
 - 🤖 Exploring **multi-agent rrchestration** and **physical AI** with world foundation models (WFMs)
-- 💻 Gaining hands-on experience with **embedded systems** (STM32 Nucleo Board) and **C/C++** programming
+- 💻 Gaining hands-on experience with **firmware** (STM32 Nucleo Board) and **C/C++** programming
 
 ## 🛠️ Languages and Tools
 
